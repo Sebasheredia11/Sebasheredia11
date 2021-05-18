@@ -33,11 +33,11 @@ I code in:
 
 <h3>Send me a message</h3>
 <p>
-<a href="https://github.com/Sebasheredia11" target="_blank">
+<a href="https://github.com/Sebasheredia11" target="blank">
 <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
 </a> 
-<a href="https://twitter.com/sebasheredia_11" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+<a href="https://twitter.com/sebasheredia_11" target="blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a> 
-<a href="https://www.linkedin.com/in/sebastian-heredia-rojas-3a7a08189/" target="_blank">
+<a href="https://www.linkedin.com/in/sebastian-heredia-rojas-3a7a08189/" target="blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a> 
