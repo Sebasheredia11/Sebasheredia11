@@ -1,6 +1,10 @@
-![Mano saludando](https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif)<h1>Hi, welcome to my Github 
-<!--
-**Sebasheredia11/sebasheredia11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi, welcome to my Github</h1>
+
+  
+  <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="100" height="80" />
+  
+ 
+I'm Sebastian, **web development** from Colombia. 
 
 Here are some ideas to get you started:
 
@@ -12,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
