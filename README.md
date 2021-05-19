@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="100" height="80" />
   
  
-I'm Sebastian, web developer from **Colombia**. <img src="https://cdn.countryflags.com/thumbs/colombia/flag-3d-500.png" width="20"/>
+I'm Sebastian, web developer from **Colombia**. <img src="https://cdn.countryflags.com/thumbs/colombia/flag-3d-500.png" width="20" height="15"/>
 
 <hr>
 
