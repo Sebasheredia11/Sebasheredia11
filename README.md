@@ -19,7 +19,9 @@ Skills:
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="Sass" src="https://img.shields.io/badge/-Less-1D365D?style=flat-square&logo=less&logoColor=white" />
 <img alt="bootstrap" src= "https://img.shields.io/badge/-bootstrap-3880FF?style=flat-square&bootstrap=bootstrap&logoColor=white" /> 
-<img alt="figma" src= "https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" /> 
+<img alt="figma" src= "https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" width="60" height="20"  /> 
+<img alt="VSC" src= "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" width="120" height="20"  /> 
+<img alt="JS" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="60" height="20"  /> 
 
 <p>
 <hr>
@@ -34,7 +36,7 @@ Skills:
 <h3>Send me a message</h3>
 <p>
   
-<a href="shr110317@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:shr110317@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://twitter.com/sebasheredia_11" target="blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a> 
 <a href="https://www.linkedin.com/in/sebastian-heredia-rojas-3a7a08189/" target="blank">
