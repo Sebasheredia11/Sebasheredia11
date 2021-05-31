@@ -22,7 +22,6 @@ Skills:
 <img alt="bootstrap" src= "https://img.shields.io/badge/-bootstrap-3880FF?style=flat-square&bootstrap=bootstrap&logoColor=white" /> 
 <img alt="figma" src= "https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" width="60" height="20"  /> 
 <img alt="VSC" src= "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" width="120" height="20"  /> 
-<img alt="JS" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="60" height="20"  /> 
 
 <p>
 <hr>
