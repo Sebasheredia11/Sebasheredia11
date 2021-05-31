@@ -6,10 +6,11 @@
  
 I'm Sebastian, web developer from **Colombia**. <img src="https://cdn.countryflags.com/thumbs/colombia/flag-3d-500.png" width="20" height="15"/>
 
-<hr />
-Skills:
 
+Skills:
+<hr />
 <p>
+ 
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
 <img alt="CSS" src="https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
