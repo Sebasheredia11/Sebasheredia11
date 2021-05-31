@@ -6,17 +6,8 @@
  
 I'm Sebastian, web developer from **Colombia**. <img src="https://cdn.countryflags.com/thumbs/colombia/flag-3d-500.png" width="20" height="15"/>
 
-<hr>
-
-Some of my hobbies are: 
-
-- 🤝 Help people 
-- 📖 Read about everything 
-- ⚽ Play soccer  
-
-<hr>
-
-I code in:
+<hr />
+Skills:
 
 <p>
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -28,14 +19,24 @@ I code in:
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="Sass" src="https://img.shields.io/badge/-Less-1D365D?style=flat-square&logo=less&logoColor=white" />
 <img alt="bootstrap" src= "https://img.shields.io/badge/-bootstrap-3880FF?style=flat-square&bootstrap=bootstrap&logoColor=white" /> 
-  
-  <p>
+<img alt="figma" src= "https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" /> 
 
+<p>
+<hr>
+
+<h3>📈 Github Stats </h3>
+
+![Sebastians's github stats](https://github-readme-stats.vercel.app/api?username=sebasheredia11&show_icons=true&theme=tokyonight)
+
+Github Readme Stats by [Sebastian Heredia](https://github.com/sebasheredia11/github-readme-stats)
+
+
+<hr>
+  
 <h3>Send me a message</h3>
 <p>
-<a href="https://github.com/Sebasheredia11" target="blank">
-<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-</a> 
+  
+<a href="shr110317@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://twitter.com/sebasheredia_11" target="blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a> 
 <a href="https://www.linkedin.com/in/sebastian-heredia-rojas-3a7a08189/" target="blank">
