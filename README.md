@@ -28,8 +28,6 @@ Skills:
 
 ![Sebastians's github stats](https://github-readme-stats.vercel.app/api?username=sebasheredia11&show_icons=true&theme=tokyonight)
 
-Github Readme Stats by [Sebastian Heredia](https://github.com/sebasheredia11/github-readme-stats)
-
 
 <hr>
   
